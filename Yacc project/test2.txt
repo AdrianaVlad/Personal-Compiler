@@ -1,0 +1,28 @@
+int a1;
+char c := 'a';
+DEFINESTE MAXX 1024
+char v [3] := { 'a', 'b' , 'c' } ;
+string cuv := { 'h', 'e', 'l', 'l', 'o' } ;
+bool tru  := adevarat;
+int functieFaina(int x, char y, int z)
+incepe
+    for (int i:=1;| i<x | i:=(i+1+2)*5/3; )
+    {
+       x := x - 1;
+    }
+    return 5;
+termina
+nou tip nice { int st; int dr;}
+main:
+incepe
+    int y := 3 ;
+    const int x :=1;
+    utip nice z;
+    z.st:=10;
+    TypeOf(z.st);
+    TypeOf(z);
+    TypeOf(v[1]);
+    if(tru==adevarat)
+        {y devine functieFaina(y,c,z.dr);}
+    a1 devine -6 ;
+termina

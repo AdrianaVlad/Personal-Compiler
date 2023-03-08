@@ -1,0 +1,7 @@
+a1	int	globala	c	char	globala	MAXX	int	globala	v	char[3]	globala	cuv	string	globala	tru	bool	globala	x	int	locala	in func functieFaina	
+y	char	locala	in func functieFaina	
+z	int	locala	in func functieFaina	
+i	int	locala	in func functieFaina	
+st	int	globala	dr	int	globala	y	int	locala	in func main	
+x	int	locala	in func main	
+z	nice	locala	in func main	
