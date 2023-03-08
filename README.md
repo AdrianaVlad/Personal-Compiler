@@ -1,6 +1,6 @@
-Compiler for our own personal programming language, developed in a team of 2.
-Done as part of "Formal Languages, Automata and Compilers" class in 2nd year of University.
-I wrote most of the code, while my colleague helped in researh, manual testing and general suggestions.
+Compiler for our own personal programming language, developed in a team of 2. 
+Done as part of "Formal Languages, Automata and Compilers" class in 2nd year of University. 
+I wrote most of the code, while my colleague helped in researh, manual testing and general suggestions. 
 I made sure: 
   - the structures were properly initialized
   - the lexx file was as complite as possible, and transferred the information accurately
